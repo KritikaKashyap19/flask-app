@@ -20,7 +20,7 @@ def htop():
 
     return f'''
     <h1>System Info</h1>
-    <p>Name: ABC</p>
+    <p>Name: Kritika</p>
     <p>Username: {system_username}</p>
     <p>Server Time (IST): {server_time}</p>
     <pre>{top_output}</pre>
